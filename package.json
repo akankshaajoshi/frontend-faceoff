@@ -1,0 +1,31 @@
+{
+  "name": "frontend-faceoff",
+  "version": "1.0.0",
+  "description": "A simple landing page built with Tailwind CSS and Flowbite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akankshaajoshi/frontend-faceoff.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "flowbite",
+    "landing",
+    "page",
+    "css",
+    "html",
+    "responsive"
+  ],
+  "author": "https://github.com/akankshaajoshi/",
+  "homepage": "https://github.com/akankshaajoshi/frontend-faceoff.git#readme",
+  "dependencies": {
+    "flowbite": "^1.4.7"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
